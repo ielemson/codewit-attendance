@@ -20,13 +20,3 @@ Role: Facilitator
 date:29/02/2020
 phone:08067407355
 Location:Lagos
-
----
-
-Name: Ipoade Olusola <br/>
-Role: Student
-date:29/02/2020
-phone:07034219855
-Location:Lagos
-
----
