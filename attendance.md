@@ -11,9 +11,7 @@ If you are reading this, you have successfully joined a clan!
 
 - Add your name to this file following the stated format:
 
-<br/> Follow the format.<br/>
-
----
+## <br/> Follow the format.<br/>
 
 Name: Elemson Ifeanyi <br/>
 Role: Facilitator
