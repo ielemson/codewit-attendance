@@ -1,15 +1,6 @@
 ## README!
 
-"Person when follow Instructions, no fit lost!"
-
-If you are reading this, you have successfully joined a clan!
-
-## Kindly follow the Instructions:
-
-1. Read the following documents
-   )
-
-- Add your name to this file following the stated format:
+"ATTENDANCE SHEET FOR CODE-WIT - 2020 - CLASS "
 
 <br/> Follow the format.<br/>
 
