@@ -23,8 +23,12 @@ Location:Lagos
 
 ---
 
-Name <br/>
+ <br/>
+Name: Clement Okeodiwe <br/>
+Role: Full stack web developement student
+date:29/02/2020
+phone:08173315733
+Location:Lagos, Nigeria
 
----
 
 Name <br/>
