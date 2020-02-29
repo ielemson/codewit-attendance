@@ -28,6 +28,14 @@ Location: Lagos
 
 ---
 
+Name: Clement Okeodiwe <br/>
+Role: Full stack web developement student
+date:29/02/2020
+phone:08173315733
+Location:Lagos, Nigeria
+
+---
+
 Name: Oladipupo S Ishola <br/>
 Role: Student
 date:29/02/2020
