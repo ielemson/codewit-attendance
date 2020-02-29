@@ -23,7 +23,6 @@ Location:Lagos
 
 ---
 
-Name <br/>
 Name: Oladipupo Ishola <br/>
 Role: Student
 date:29/02/2020
