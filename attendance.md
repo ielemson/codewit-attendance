@@ -30,7 +30,7 @@ Location: Lagos
 
 Name: Clement Okeodiwe <br/>
 Role: Full stack web developement student
-date:29/02/2020
+date:7/03/2020
 phone:08173315733
 Location:Lagos, Nigeria
 
@@ -49,3 +49,4 @@ Role: Student
 date:07-03-2020
 phone:08110837448
 Location:Lagos
+
