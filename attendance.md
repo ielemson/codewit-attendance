@@ -44,11 +44,20 @@ Location:Lagos
 
 ---
 
+Name: Bello Maryam Titilayo <br/>
+Role: Student
+date: 07/03/2020
+phone: 08102749911
+location:Lagos , Nigeria
+
+---
+
 Name: Okupa Anthony <br/>
 Role: Student
 date: 07/03/2020
 phone: 08139759440
 Location: Lagos
+
 ---
 
 Name: Ipoade Olusola <br/>
@@ -56,7 +65,9 @@ Role: Student
 date:07/03/2020
 phone:07034219855
 Location:Lagos
+
 ---
+
 Name: Oladipupo S Ishola <br/>
 Role: Student
 date:07-03-2020
