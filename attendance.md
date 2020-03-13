@@ -44,6 +44,13 @@ Location:Lagos
 
 ---
 
+
+Name: Ipoade Olusola <br/>
+Role: Student
+date:07/03/2020
+phone:07034219855
+Location:Lagos
+---
 Name: Oladipupo S Ishola <br/>
 Role: Student
 date:07-03-2020
