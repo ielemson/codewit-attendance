@@ -6,7 +6,7 @@
 
 "Person wey follow Instructions, no fit lost!"
 
-If you are reading this, you have successfully a githuber!!!
+If you are reading this, you are successfully a githuber!!!
 
 ## Kindly follow the Instructions:
 
